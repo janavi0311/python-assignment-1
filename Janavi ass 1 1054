@@ -1,1 +1,119 @@
 
+r=int(input("radius is:"))
+pi=3.142
+a=pi*r*r
+print("area of circle",a)
+
+  
+  
+  
+  
+  
+l=int(input("length is:"))
+b=int(input("breath is:"))
+a=l*b
+print("area of rectangle",a)
+
+
+
+
+  
+b=int(input("breadth is"))
+h=int(input("height is"))
+A=0.5*b*h
+print("area of triangle",A)
+
+  
+  
+  
+  
+r=float(input("radius is:"))
+pi=3.142
+c=2*pi*r
+print("circumference of a circle",c)
+
+  
+  
+  
+  
+a=int(input("area is:"))
+p=4*a
+print("perimeter of square")
+
+  
+  
+  
+a=5
+b=8
+c=a+b
+print(c)
+
+
+
+
+a=7
+b=3
+c=a-b
+print(c)
+
+
+
+
+
+
+a=8
+b=9
+c=a*b
+print(c)
+
+
+
+
+a=5
+b=2
+c=a/b
+print(c)
+
+a=7
+b=8
+c=a%b
+print(c)
+
+a=5
+b=8
+c=a**b
+print(c)
+
+a=5
+b=2
+c=a//b
+print(c)
+  
+p=int(input("princple is:"))
+r=float(input("rate is:"))
+t=int(input("time is:"))
+si=(p*t*r)/100
+print("simple intrest is",si)
+
+
+
+
+  
+x=input("value of x:")
+y=input("value of y:")
+print("value of x before swapping:",x)
+print("value of y before swapping:",y)        
+temp=x
+x=y
+y=temp
+print("value of x after swapping:",x)
+print("value of y after swapping:",y)
+
+
+
+
+
+
+
+
+  
